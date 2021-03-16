@@ -4,4 +4,4 @@
 + Познакомиться с основными командами
 
 ```bash
-$ git clone git@github..."
+$ git clone git@github...."
